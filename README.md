@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **nickolars123@gmail.com**
 
+- *IMPORTANT* Most of my repos are private for licensing reasons. Reach out if you want to learn more!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nikolas-larson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nikolas-larson" height="30" width="40" /></a>
