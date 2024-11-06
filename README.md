@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django, Flask, and React**
 
-- 💬 Ask me about **Python, Java, and JS.**
+- 💬 Ask me about **Python, Java, and JavaScript.**
 
 - 📫 How to reach me **nickolars123@gmail.com**
 
